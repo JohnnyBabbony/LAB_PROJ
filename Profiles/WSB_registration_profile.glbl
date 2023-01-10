@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>WSB_registration_profile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL direct user creation</description>
+      <initValue>'https://www.wsb.pl/rekrutacja/rejestracja'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
